@@ -71,4 +71,4 @@ return::
     Fp(152x-193u!)
     Fp(152x-193u!)p(P9-)
 
-We can see that the second point ('p(P9-)') is relay smaller.
+We can see that the second point (``p(P9-)``) is relay smaller.
