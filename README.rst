@@ -50,7 +50,7 @@ return::
 
 
 To get small values event if the coordinates are bigger we encode the
-differences between points, for example:
+differences between points, for example::
 
     new OpenLayers.Format.URLCompressed().write([
         new OpenLayers.Feature.Vector(
